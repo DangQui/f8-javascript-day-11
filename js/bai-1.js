@@ -1,6 +1,7 @@
 let a = 10;
 let b = 3;
 
+console.log("Bài 1:");
 console.log("Tổng:", a + b);
 console.log("Hiệu:", a - b);
 console.log("Tích:", a * b);
